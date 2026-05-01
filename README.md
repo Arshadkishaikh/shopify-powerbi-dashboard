@@ -86,16 +86,6 @@ This project transforms raw Shopify transaction-level data into an interactive P
 
 ---
 
-## 💡 Business Recommendations (Derived from Dashboard)
-
-1. **Double down on repeat customer programs** — With a 46% repeat rate and LTV of $943.6, a loyalty or subscription program could meaningfully increase revenue per customer.
-2. **Expand in top-performing cities** — Washington, Houston, and New York show strong demand; targeted ads in these markets could yield high ROI.
-3. **Optimize for Shopify Payments** — Since 58% of transactions use Shopify Payments, ensuring a frictionless checkout experience here is critical.
-4. **Rationalize low-performing SKUs** — Products like Clogs and Water Shoes contribute negligibly; freeing up inventory for Running and Tennis Shoes is advisable.
-5. **Investigate period 21 sales dip** — Net sales dropped to $5.41M in period 21; understanding the cause (seasonality, supply, marketing) can prevent recurrence.
-
----
-
 
 ## 🚀 Getting Started
 
@@ -126,8 +116,8 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 ## 👤 Author
 
 **ARSHAD K I SHAIKH**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
+- GitHub: (https://github.com/Arshadkishaikh)
+- LinkedIn: (https://linkedin.com/in/arshadkishaikh/)
 
 ---
 
