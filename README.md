@@ -6,7 +6,7 @@
 
 ## 📊 Dashboard Preview
 
-![Shopify Sales & Customer Funnel Dashboard](./assets/Shopify_Dashboard.png)
+![Shopify Sales & Customer Funnel Dashboard](./Shopify_Dashboard_Analysis.png)
 
 ---
 
