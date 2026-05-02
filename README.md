@@ -98,7 +98,7 @@ This project transforms raw Shopify transaction-level data into an interactive P
 ### Steps
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/shopify-powerbi-dashboard.git
+git clone https://github.com/Arshadkishaikh/shopify-powerbi-dashboard.git
 
 # 2. Navigate to the project directory
 cd shopify-powerbi-dashboard
